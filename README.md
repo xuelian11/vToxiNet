@@ -14,12 +14,11 @@ The repository includes processed datasets used for model development and evalua
 \item Reactome pathway mapping files  
 \item CTD disease gene collection  
 \item modeling set and independent external validation set:  
-\begin{itemize}
-\item chemical Saagar descriptors  
-\item MIE assay profiles  
-\item gene expression profiles  
 \end{itemize}
-\end{itemize}
+chemical Saagar descriptors  
+MIE assay profiles  
+gene expression profiles  
+
 
 All original source data were obtained from publicly available resources.  
 
