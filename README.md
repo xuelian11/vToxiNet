@@ -9,13 +9,17 @@ transcriptomic profiles, and the Reactome pathway hierarchy.
 The model is designed to support both predictive performance and mechanistic interpretation.
 
 ## Data
-The repository includes processed datasets used for model development and evaluation, including:  
-Reactome pathway mapping files  
-CTD disease gene collection  
-modeling set and independent external validation set:  
-  chemical Saagar descriptors  
-  MIE assay profiles  
-  gene expression profiles  
+The repository includes processed datasets used for model development and evaluation, including: 
+\begin{itemize}
+\item Reactome pathway mapping files  
+\item CTD disease gene collection  
+\item modeling set and independent external validation set:  
+\begin{itemize}
+\item chemical Saagar descriptors  
+\item MIE assay profiles  
+\item gene expression profiles  
+\end{itemize}
+\end{itemize}
 
 All original source data were obtained from publicly available resources.  
 
