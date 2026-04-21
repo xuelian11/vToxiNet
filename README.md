@@ -1,9 +1,9 @@
 # vToxiNet
 ## Overview
 This repository contains the code and processed data used in the study:  
-**A biologically constrained deep learning framework for interpretable prediction of drug-induced hepatotoxicity**  
+**vToxiNet: An Interpretable Deep Learning Framework for Hepatotoxicity Prediction and Mechanism Exploration**  
 
-vToxiNet is a biologically constrained deep learning framework for predicting drug-induced hepatotoxicity by integrating
+vToxiNet is a biologically constrained deep learning framework for predicting chemical and drug-induced hepatotoxicity by integrating
 multiple data modalities, including chemical descriptors, molecular initiating event (MIE) assay responses, 
 transcriptomic profiles, and the Reactome pathway hierarchy.  
 
